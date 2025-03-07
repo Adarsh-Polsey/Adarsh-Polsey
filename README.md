@@ -1,6 +1,6 @@
 # Hi there, I'm Adarsh Polsey! 👋
 
-🌍 **Based in Calicut, India** | 💡 **Passionate about building innovative solutions**
+🌍 **Based in Malappuram, India** | 💡 **Passionate about building innovative solutions**
 
 *Frontend Developer | Flutter Enthusiast | FastAPI Backend Developer | UI/UX Designer | Tech Community Contributor*
 
@@ -15,12 +15,10 @@ I love creating seamless, user-friendly applications and exploring new technolog
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
 
