@@ -40,9 +40,12 @@ I love creating seamless, user-friendly applications and exploring new technolog
 
 ## 🎶 **Fun Fact About Me**  
 
-🌎 **Tech Explorer:** Always looking for new tools & frameworks to play with.  
+🌎 **Tech Explorer:** Always looking for new tools & frameworks to play with. 
+
 📚 **Multi-Talented Nerd**: From coding to sports, I juggle it all.
+
 💡 **Curious About AI & ML**: Dipping my toes into the world of Machine Learning.
+
 🔥 **Glassmorphism Fanatic**: If it’s transparent and glowy, I’m using it.  
 
 ---
