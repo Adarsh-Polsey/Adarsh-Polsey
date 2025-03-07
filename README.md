@@ -12,8 +12,7 @@ I love creating seamless, user-friendly applications and exploring new technolog
 
 🎨 **Frontend Development** - Building interactive & responsive UIs using modern frameworks.  
 📱 **Flutter Development** - Creating cross-platform mobile apps with smooth UX.  
-⚡ **Backend Development** - Designing APIs & backend logic using FastAPI & PostgreSQL.  
-🌱 **Tech Community** - Actively contributing & mentoring in tech communities.  
+⚡ **Backend Development** - Designing APIs & backend logic using FastAPI & PostgreSQL.
 
 ---
 
