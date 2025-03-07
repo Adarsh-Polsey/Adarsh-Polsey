@@ -19,7 +19,7 @@ I love creating seamless, user-friendly applications and exploring new technolog
 
 ## 🛠️ **Technologies & Tools**  
 
-![Dart](https://skillicons.dev/icons?i=dart)  ![Flutter](https://skillicons.dev/icons?i=flutter)  ![FastAPI](https://skillicons.dev/icons?i=fastapi)  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Java](https://skillicons.dev/icons?i=java)  ![Android](https://skillicons.dev/icons?i=android)  ![C++](https://skillicons.dev/icons?i=cpp)  ![Shell](https://skillicons.dev/icons?i=shell)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  ![Git](https://skillicons.dev/icons?i=git)  ![VS Code](https://skillicons.dev/icons?i=vscode)  ![Figma](https://skillicons.dev/icons?i=figma)  
+![Dart](https://skillicons.dev/icons?i=dart)  ![Flutter](https://skillicons.dev/icons?i=flutter)  ![FastAPI](https://skillicons.dev/icons?i=fastapi)  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Java](https://skillicons.dev/icons?i=java)  ![C++](https://skillicons.dev/icons?i=cpp)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  ![Git](https://skillicons.dev/icons?i=git)  ![VS Code](https://skillicons.dev/icons?i=vscode)  ![Figma](https://skillicons.dev/icons?i=figma)  
 
 ---
 
