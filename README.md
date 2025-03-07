@@ -19,7 +19,7 @@ I love creating seamless, user-friendly applications and exploring new technolog
 
 ## 🛠️ **Technologies & Tools**  
 
-![Dart](https://skillicons.dev/icons?i=dart)  ![Flutter](https://skillicons.dev/icons?i=flutter)  ![FastAPI](https://skillicons.dev/icons?i=fastapi)  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Java](https://skillicons.dev/icons?i=java)  ![C++](https://skillicons.dev/icons?i=cpp)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  ![Git](https://skillicons.dev/icons?i=git)  ![VS Code](https://skillicons.dev/icons?i=vscode)  ![Figma](https://skillicons.dev/icons?i=figma)  
+![Dart](https://skillicons.dev/icons?i=dart)  ![Flutter](https://skillicons.dev/icons?i=flutter)  ![FastAPI](https://skillicons.dev/icons?i=fastapi)  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Java](https://skillicons.dev/icons?i=java)  ![C++](https://skillicons.dev/icons?i=cpp)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  ![Git](https://skillicons.dev/icons?i=git)  ![VS Code](https://skillicons.dev/icons?i=vscode)  ![Figma](https://skillicons.dev/icons?i=figma)  ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ---
 
@@ -36,14 +36,6 @@ I love creating seamless, user-friendly applications and exploring new technolog
 
 ### 🔹 **Busy Vazhas – Useless Project for Tinker Hub**  
 📌 **Description:** Selected among **top projects** in **Tinker Hub’s "Useless Projects Competition"**, showcasing creativity & problem-solving.  
-
----
-
-## 🏅 **Certifications & Achievements**  
-
-✅ **Flutter Developer** - Built multiple mobile apps with Flutter.  
-✅ **AI & ML Enthusiast** - Learning and experimenting with AI/ML models.  
-✅ **FastAPI Backend Developer** - Developed scalable APIs for real-world projects.  
 
 ---
 
