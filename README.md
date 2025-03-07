@@ -1,48 +1,91 @@
-# Hi there, I'm Adarsh Polsey! 👋
+# Hi there, I'm Adarsh Polsey! 👋  
 
-🌍 **Based in Malappuram, India** | 💡 **Passionate about building innovative solutions**
+🌍 **Based in Malappuram, India** | 💡 **Passionate about building innovative solutions**  
 
-*Frontend Developer | Flutter Enthusiast | FastAPI Backend Developer | UI/UX Designer | Tech Community Contributor*
+*Frontend Developer | Flutter Enthusiast | FastAPI Backend Developer | UI/UX Designer | Tech Community Contributor*  
 
-I love creating seamless, user-friendly applications and exploring new technologies. Whether it's crafting sleek UI designs or optimizing backend performance, I'm always eager to learn and build impactful solutions.
-
----
-
-## 🛠️ **Technologies & Tools**
-
-![Dart](https://skillicons.dev/icons?i=dart)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Git](https://skillicons.dev/icons?i=git)
+I love creating seamless, user-friendly applications and exploring new technologies. Whether it's crafting sleek UI designs or optimizing backend performance, I'm always eager to learn and build impactful solutions.  
 
 ---
 
-## 🚀 **Key Projects**
+## 🚀 **What I Do**  
 
-### 🔹 **Placify - College Placement Platform**
-A mobile app easing placement applications for 3500+ students with automated job alerts.
-
-### 🔹 **SJC Blog – Campus Blogging Platform**
-A blogging platform enabling students to share ideas, complete with multimedia support and engagement features.
-
-### 🔹 **NexDoor – Local Service Connector**
-A geolocation-based app connecting users with nearby service providers, enhancing community engagement.
-
-### 🔹 **Busy Vazhas – Useless Project for Tinker Hub**
-Selected among the top projects in Tinker Hub's "Useless Projects Competition," showcasing creativity and problem-solving.
+🎨 **Frontend Development** - Building interactive & responsive UIs using modern frameworks.  
+📱 **Flutter Development** - Creating cross-platform mobile apps with smooth UX.  
+⚡ **Backend Development** - Designing APIs & backend logic using FastAPI & PostgreSQL.  
+🎭 **UI/UX Design** - Crafting clean, minimal, and engaging interfaces.  
+🌱 **Tech Community** - Actively contributing & mentoring in tech communities.  
 
 ---
 
-## 🌟 **Let's Connect!**
+## 🛠️ **Technologies & Tools**  
 
-I'm always up for collaborating on exciting projects and discussing new ideas. Let's connect!
+![Dart](https://skillicons.dev/icons?i=dart) ![Flutter](https://skillicons.dev/icons?i=flutter) ![FastAPI](https://skillicons.dev/icons?i=fastapi)  
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Java](https://skillicons.dev/icons?i=java)  
+![Android](https://skillicons.dev/icons?i=android) ![C++](https://skillicons.dev/icons?i=cpp) ![Shell](https://skillicons.dev/icons?i=shell) 
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
+![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma)  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-polsey/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adarsh-Polsey)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshpolsey7@gmail.com)
+---
 
+## 🚀 **Key Projects**  
+
+### 🔹 **Placify - College Placement Platform**  
+📌 **Description:** A mobile app easing placement applications for **3500+ students** with automated job alerts.  
+
+### 🔹 **SJC Blog – Campus Blogging Platform**  
+📌 **Description:** A **blogging platform** for students to share ideas with **multimedia support & engagement features**.  
+
+### 🔹 **NexDoor – Local Service Connector**  
+📌 **Description:** A **geolocation-based app** connecting users with **nearby service providers**, boosting local economy & engagement.  
+
+### 🔹 **Busy Vazhas – Useless Project for Tinker Hub**  
+📌 **Description:** Selected among **top projects** in **Tinker Hub’s "Useless Projects Competition"**, showcasing creativity & problem-solving.  
+
+---
+
+## 📊 **GitHub Stats & Activity**  
+
+### 🚀 **Contribution Graph**  
+![Adarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Polsey&theme=react)  
+
+### 📈 **GitHub Stats**  
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Polsey&show_icons=true&theme=radical)  
+
+### 🔥 **Streak Stats**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adarsh-Polsey&theme=radical)  
+
+### 🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarsh-Polsey&theme=radical)  
+
+---
+
+## 🏅 **Certifications & Achievements**  
+
+✅ **Hacktoberfest Contributor** - Successfully contributed to open-source projects.  
+✅ **Flutter Developer** - Built multiple mobile apps with Flutter.  
+✅ **AI & ML Enthusiast** - Learning and experimenting with AI/ML models.  
+✅ **FastAPI Backend Developer** - Developed scalable APIs for real-world projects.  
+
+---
+
+## 🎶 **Fun Fact About Me**  
+
+🌎 **Tech Explorer:** Always looking for new tools & frameworks to play with.  
+📚 **Multi-Talented Nerd**: From coding to sports, I juggle it all.
+💡 **Curious About AI & ML**: Dipping my toes into the world of Machine Learning.
+🔥 **Glassmorphism Fanatic**: If it’s transparent and glowy, I’m using it.  
+
+---
+
+## 🌟 **Let's Connect!**  
+
+I'm always up for collaborating on exciting projects and discussing new ideas. Let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-polsey/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Adarsh-Polsey)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshpolsey7@gmail.com)  
+
+---
+
+🚀 **Fueled by curiosity, creativity, and a little bit of chaos!** 🔥 
