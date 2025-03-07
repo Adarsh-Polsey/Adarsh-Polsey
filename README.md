@@ -2,9 +2,9 @@
 
 🌍 **Based in Malappuram, India** | 💡 **Passionate about building innovative solutions**  
 
-*Frontend Developer | Flutter Enthusiast | FastAPI Backend Developer | UI/UX Designer | Tech Community Contributor*  
+*Frontend Developer | Flutter Enthusiast | FastAPI Backend Developer | Tech Community Contributor*  
 
-I love creating seamless, user-friendly applications and exploring new technologies. Whether it's crafting sleek UI designs or optimizing backend performance, I'm always eager to learn and build impactful solutions.  
+I love creating seamless, user-friendly applications and exploring new technologies. Whether it's crafting sleek UI or optimizing backend performance, I'm always eager to learn and build impactful solutions.  
 
 ---
 
@@ -13,7 +13,6 @@ I love creating seamless, user-friendly applications and exploring new technolog
 🎨 **Frontend Development** - Building interactive & responsive UIs using modern frameworks.  
 📱 **Flutter Development** - Creating cross-platform mobile apps with smooth UX.  
 ⚡ **Backend Development** - Designing APIs & backend logic using FastAPI & PostgreSQL.  
-🎭 **UI/UX Design** - Crafting clean, minimal, and engaging interfaces.  
 🌱 **Tech Community** - Actively contributing & mentoring in tech communities.  
 
 ---
@@ -44,25 +43,8 @@ I love creating seamless, user-friendly applications and exploring new technolog
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
-
-### 🚀 **Contribution Graph**  
-![Adarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Polsey&theme=react)  
-
-### 📈 **GitHub Stats**  
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Polsey&show_icons=true&theme=radical)  
-
-### 🔥 **Streak Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adarsh-Polsey&theme=radical)  
-
-### 🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarsh-Polsey&theme=radical)  
-
----
-
 ## 🏅 **Certifications & Achievements**  
 
-✅ **Hacktoberfest Contributor** - Successfully contributed to open-source projects.  
 ✅ **Flutter Developer** - Built multiple mobile apps with Flutter.  
 ✅ **AI & ML Enthusiast** - Learning and experimenting with AI/ML models.  
 ✅ **FastAPI Backend Developer** - Developed scalable APIs for real-world projects.  
