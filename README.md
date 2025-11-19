@@ -38,9 +38,6 @@ I love creating seamless, user-friendly applications and exploring new technolog
 📌 **Role:** Flutter Developer for the Union, SJC Devagiri.
 📌 **Impact:** Developed SJC Blog (Coral), a **blogging platform** for students to share ideas with **multimedia support & engagement features**.
 
-### 🔹 **NexDoor – Local Service Connector**
-📌 **Description:** A **geolocation-based app** connecting users with **nearby service providers**, boosting local economy & engagement.
-
 ### 🔹 **Busy Vazhas – Useless Project for Tinker Hub**
 📌 **Description:** Selected among **top projects** in **Tinker Hub’s "Useless Projects Competition"**, showcasing creativity & problem-solving.
 
